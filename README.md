@@ -52,7 +52,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-> _If deployed, add your live URL here_
+> _https://pavanvault.vercel.app/_
 
 ---
 
